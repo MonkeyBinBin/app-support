@@ -37,4 +37,3 @@ nav { margin-bottom: 28px; color: var(--muted); font-size: 15px; }
 .lead, .meta { color: var(--muted); }
 .card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; margin-bottom: 12px; }
 .card p:last-child { margin-bottom: 0; }
-footer { margin-top: 44px; color: var(--muted); font-size: 14px; }
